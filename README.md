@@ -10,3 +10,6 @@
 
 
 ## Visuals
+<img src="./Assets/images/screencapture.png"/>
+
+https://user-images.githubusercontent.com/117052258/206001481-680834bd-77b8-4a4e-a1ab-e61cfc6d2965.mp4
