@@ -7,7 +7,7 @@
 <li>Deployed project using git commands and pushed completed code to my GitHub repository.</li>
 
 ## Link To Deployed Project/Application
-
+https://juliennejulien.github.io/weekday-schedule/  
 
 ## Visuals
 <img src="./Assets/images/screencapture.png"/>
